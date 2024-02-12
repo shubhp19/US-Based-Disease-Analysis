@@ -1,7 +1,6 @@
-`            `**Strategic Data Insights on COVID-19 Impact Analysis                                Final Project Report** 
+`            `**Strategic Data Insights on COVID-19 Impact Analysis**                        
 
-![](Aspose.Words.af9ed917-cf09-408b-89e7-ebbbb061e7f4.001.png)
- 
+
 
 **Shubham Shekhar Patil**  
 
